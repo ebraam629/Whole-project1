@@ -1,0 +1,5 @@
+POST http://localhost:3000/login
+
+GET http://localhost:3000/profile
+
+POST http://localhost:3000/logout
